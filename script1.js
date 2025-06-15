@@ -7,4 +7,4 @@ document.addEventListener("DOMContentLoaded", () =>
         alert("Thanks for visiting my portfolio!");
     });
     document.body.appendChild(button);
-})
+});
